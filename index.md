@@ -60,3 +60,15 @@ Firebase Crashlytics gesendet.
 ## 9. Änderungen dieser Erklärung
 Änderungen werden in der App angekündigt.
 Letzte Aktualisierung: Mai 2026.
+
+## Referenzbilder von Drittanbietern
+
+Nach einer Krankheitsdiagnose werden zur visuellen Bestätigung Referenzbilder von folgenden Diensten in die App geladen:
+
+- **Wikipedia / Wikimedia Commons** — betrieben von der Wikimedia Foundation, San Francisco, USA. [Datenschutzerklärung](https://foundation.wikimedia.org/wiki/Privacy_policy)
+- **iNaturalist** — betrieben von der California Academy of Sciences, San Francisco, USA. [Datenschutzerklärung](https://www.inaturalist.org/pages/privacy)
+- **PlantVillage** — Bilder werden über das jsDelivr-CDN (betrieben von Cloudflare/Volentix) ausgeliefert. [Datenschutzerklärung jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net)
+
+Beim Laden dieser Bilder kann deine IP-Adresse von den genannten Diensten erfasst werden (technisch notwendig für die Bildauslieferung). **Dein eigenes Pflanzenfoto wird NICHT an diese Dienste übertragen** — es bleibt ausschließlich zwischen deinem Gerät und Google Gemini.
+
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer hilfreichen visuellen Bestätigung der Diagnose).
